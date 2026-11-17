@@ -1,0 +1,7 @@
+{
+  "display_name": "Codex 장면 이미지",
+  "version": "0.1.9",
+  "loading_order": 20,
+  "js": "index.js",
+  "css": "style.css"
+}
